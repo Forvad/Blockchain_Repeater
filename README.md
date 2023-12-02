@@ -42,7 +42,9 @@ Blockchain_Repeater is a tool designed to intercept and retransmit transactions 
 
 1. Open the environment variables file `.env` and make the necessary changes, specifying the RPC and the wallet address for the token retransmission.
 
-2. Run the project:
+2. Add private keys of tracking wallets to the file `wallet.txt`.
+
+3. Run the project:
 
    ```
    python run.py
