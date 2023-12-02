@@ -179,17 +179,5 @@ class AutoTx:
             return result.private_key
 
 
-def main():
-    tx = AutoTx()
-    # tx.insert_db()
-    tx.get_tx()
-    # for _ in range(9000):
-    #     new_account = Account.create()
-    #     with open('wallet.txt', 'a') as prv:
-    #         prv.write(f'{new_account._private_key.hex()}\n')
-    #     with open('address.txt', 'a') as adr:
-    #         adr.write(f'{new_account.address}\n')
-
-
 if __name__ == "__main__":
-    main()
+    pass
