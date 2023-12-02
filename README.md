@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-Blockchain_Repeater is a tool designed to intercept and retransmit transactions from the Ethereum blockchain mempool. This project was created to provide users with the ability to automatically repeat transactions upon their confirmation, sending tokens to another wallet.
+Blockchain Repeater is a tool designed to intercept and retransmit transactions from the Ethereum blockchain mempool. This project was created to provide users with the ability to automatically repeat transactions upon their confirmation, sending tokens to another wallet.
 
 </div>
 
